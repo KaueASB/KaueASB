@@ -1,4 +1,4 @@
-### Hi, i'am Kaue Alves 👋
+# Hi, i'am Kaue Alves 👋
 
 - 📚 I’m currently learning: React at Trybe
 - 😄 Pronouns: He / his
