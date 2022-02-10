@@ -23,3 +23,5 @@
   <a href = "mailto:kaue_alves00@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaue-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+![Snake animation](https://github.com/KaueASB/KaueASB/blob/output/github-contribution-grid-snake.svg)
