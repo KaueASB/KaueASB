@@ -1,6 +1,6 @@
 # Hi, i'am Kaue Alves 👋
 
-- 📚 I’m currently learning: React at Trybe
+- 📚 I’m currently learning: Docker at Trybe
 - 😄 Pronouns: He / his
 <div align="center">
   <a href="https://github.com/KaueASB">
