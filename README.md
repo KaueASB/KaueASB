@@ -1,8 +1,7 @@
-# Hi, i'am Kaue Alves 👋
+# Oi, me chamo Kaue Alves (Ele/Dele) 👋
 
-- 😄 Pronouns: He / his
-- 📚 I’m currently learning: Back-End at Trybe
-- 📚 In the moment i’m currently learning: TypeScript
+Em 2021 resolvi mudar os planos pra minha vida. Encerrei um ciclo de 10 anos de carreira para iniciar um novo ciclo em tecnlogia, algo que sempre gostei e que não me arrependo em nenhum mmomento de fazer esta transição.
+
 <div align="center">
   <a href="https://github.com/KaueASB">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaueasb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
