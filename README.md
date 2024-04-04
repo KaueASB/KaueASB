@@ -35,11 +35,8 @@ Em 2021 resolvi mudar os planos pra minha vida. Encerrei um ciclo de 10 anos de 
   <a href="https://www.linkedin.com/in/kaue-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/k.alvessb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaue_alvesSB00@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-<!--
-  #![Snake animation](https://github.com/KaueASB/KaueASB/blob/output/github-contribution-grid-snake.svg)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueASB)](https://github.com/KaueASB/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueASB&hide=contribs,prs)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueASB&count_private=true)
--->
   
+  ![Snake animation](https://github.com/KaueASB/KaueASB/blob/output/github-contribution-grid-snake.svg)
+
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueASB)](https://github.com/KaueASB/github-readme-stats) -->
 </div>
