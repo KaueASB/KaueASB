@@ -50,7 +50,6 @@ Estou animado para continuar evoluindo como desenvolvedor, aprimorando minhas ha
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
   
-
   ![Snake animation](https://github.com/KaueASB/KaueASB/blob/output/github-contribution-grid-snake-dark.svg)
 
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueASB&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/KaueASB/github-readme-stats) -->
