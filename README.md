@@ -44,10 +44,14 @@ Estou animado para continuar evoluindo como desenvolvedor, aprimorando minhas ha
   <a href="https://www.instagram.com/k.alvessb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                       
   <a href="mailto:kaue_alvesSB@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 
-  <!--
   ![Snake animation](https://github.com/KaueASB/KaueASB/blob/output/github-contribution-grid-snake.svg)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueASB&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/KaueASB/github-readme-stats)
-  -->
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueASB&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/KaueASB/github-readme-stats) -->
+  
 </div>
