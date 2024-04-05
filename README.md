@@ -55,16 +55,13 @@ Esta é uma nova etapa repleta de oportunidades empolgantes. Estou pronto para e
   
   ##
   
-<div style="display: flex; justify-content: space-start; align-items: center; gap: 10px;">
+<div>
 
   <!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kaue-alvess/) -->
-
-  <a href="https://www.linkedin.com/in/kaue-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
   <!-- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/k.alvessb/) -->
 
+  <a href="https://www.linkedin.com/in/kaue-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/k.alvessb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
   <a href="mailto:kaue_alvesSB@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
   <!-- <picture>
