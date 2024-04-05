@@ -33,6 +33,14 @@ Esta é uma nova etapa repleta de oportunidades empolgantes. Estou pronto para e
   <img align="center" alt="Sequelize" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Prisma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
 
+  <!-- 
+  ##
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,jest,vitest,cypress,bun,express,nest,mysql,postgres,mongo,redis,sequelize,prisma,docker,py,git,githubactions,linux,docker)](https://skillicons.dev)
+
+  [![My Skills Desktop](https://skillicons.dev/icons?i=electron,tauri)](https://skillicons.dev) 
+  -->
+
 <!-- ##
 
   [![My Skills Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma)](https://skillicons.dev)
