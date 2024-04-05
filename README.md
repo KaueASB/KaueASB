@@ -32,14 +32,31 @@ Esta é uma nova etapa repleta de oportunidades empolgantes. Estou pronto para e
   <img align="center" alt="nest" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="Sequelize" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Prisma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-          
+
+<!-- ##
+
+  [![My Skills Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma)](https://skillicons.dev)
+
+  [![My Skills Backend](https://skillicons.dev/icons?i=nodejs,jest,vitest,cypress,bun,express,nest,mysql,postgres,mongo,redis,sequelize,prisma,docker,py)](https://skillicons.dev)
+
+  [![My Skills DevOps](https://skillicons.dev/icons?i=git,githubactions,linux,docker)](https://skillicons.dev)
+
+  [![My Skills Desktop](https://skillicons.dev/icons?i=electron,tauri)](https://skillicons.dev) -->
+
 </div>
   
   ##
   
-<div>
+<div style="display: flex; justify-content: space-start; align-items: center; gap: 10px;">
+
+  <!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kaue-alvess/) -->
+
   <a href="https://www.linkedin.com/in/kaue-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/k.alvessb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                       
+
+  <!-- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/k.alvessb/) -->
+
+  <a href="https://www.instagram.com/k.alvessb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   <a href="mailto:kaue_alvesSB@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
   <!-- <picture>
