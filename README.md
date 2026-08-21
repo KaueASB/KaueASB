@@ -14,19 +14,15 @@ Esta é uma nova etapa repleta de oportunidades empolgantes. Estou pronto para e
 
 <!-- <div align="center">
   <a href="https://github.com/KaueASB">
-    <img height="160em" src="https://kaue-asb-kasb-asb.vercel.app/api?username=kaueasb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://kaue-asb-kasb-asb.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div> -->
-
-<div align="center">
-  <a href="https://github.com/KaueASB">
-    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=kaueasb&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=calm"/>
+    <img height="160" src="https://github-stats-extended.vercel.app/api?username=KaueASB&show_icons=true&include_all_commits=true&count_private=true&theme=calm"/>
+    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=calm"/>
   </a>
 </div>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KaueASB&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=KaueASB&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=calm)
 
-<!-- [![Kaue GitHub stats](https://github-stats-extended.vercel.app/api?username=kaueasb&show_icons=true&theme=calm&include_all_commits=true&count_private=true)](https://github.com/stats-organization/github-stats-extended) -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KaueASB&layout=compact&hide_title=true&langs_count=7&theme=calm)](https://github-stats-extended.vercel.app/api/top-langs?username=KaueASB&layout=compact&hide_title=true&langs_count=7&theme=calm) -->
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
