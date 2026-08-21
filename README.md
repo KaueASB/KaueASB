@@ -6,11 +6,28 @@ Esta é uma nova etapa repleta de oportunidades empolgantes. Estou pronto para e
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/KaueASB">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaueasb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=radical"/>
+</div> -->
+
+<!-- <div align="center">
+  <a href="https://github.com/KaueASB">
+    <img height="160em" src="https://kaue-asb-kasb-asb.vercel.app/api?username=kaueasb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://kaue-asb-kasb-asb.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div> -->
+
+<div align="center">
+  <a href="https://github.com/KaueASB">
+    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=kaueasb&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=calm"/>
+  </a>
 </div>
+
+<!-- [![Kaue GitHub stats](https://github-stats-extended.vercel.app/api?username=kaueasb&show_icons=true&theme=calm&include_all_commits=true&count_private=true)](https://github.com/stats-organization/github-stats-extended) -->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
