@@ -12,7 +12,7 @@ Esta é uma nova etapa repleta de oportunidades empolgantes. Estou pronto para e
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=radical"/>
 </div> -->
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/KaueASB">
     <img height="160" src="https://github-stats-extended.vercel.app/api?username=KaueASB&show_icons=true&include_all_commits=true&count_private=true&theme=calm"/>
     <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaueasb&layout=compact&langs_count=7&theme=calm"/>
