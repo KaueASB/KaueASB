@@ -3,7 +3,6 @@ name: Update GitHub Stats
 on:
   workflow_dispatch:
   schedule:
-    # 02:00 no horário de São Paulo (05:00 UTC)
     - cron: "0 5 * * *"
 
 permissions:
@@ -19,14 +18,14 @@ jobs:
 
       - name: Verify GitHub authentication
         env:
-          GH_TOKEN: ${{ secrets['github-stats-vercel'] }}
+          GH_TOKEN: ${{ secrets.GH_STATS_PAT }}
         run: |
           echo "Authenticated as:"
           gh api user --jq '.login'
 
       - name: Check private repository access
         env:
-          GH_TOKEN: ${{ secrets['github-stats-vercel'] }}
+          GH_TOKEN: ${{ secrets.GH_STATS_PAT }}
         run: |
           echo "Checking private repository access:"
           gh repo view genoaseguros/ZecaBackEndV2 \
@@ -34,7 +33,7 @@ jobs:
 
       - name: Generate stats
         env:
-          GH_TOKEN: ${{ secrets['github-stats-vercel'] }}
+          GH_TOKEN: ${{ secrets.GH_STATS_PAT }}
           GITHUB_USERNAME: KaueASB
           YEAR: 2026
         run: |
@@ -42,7 +41,6 @@ jobs:
 
       - name: Show generated numbers
         run: |
-          echo "Generated stats:"
           cat stats.json
 
       - name: Commit updated stats
