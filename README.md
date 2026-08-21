@@ -19,7 +19,7 @@ Esta é uma nova etapa repleta de oportunidades empolgantes. Estou pronto para e
   </a>
 </div>
 
-![GitHub Stats](./stats.svg)
+<!-- ![GitHub Stats](./stats.svg) -->
   
 <!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KaueASB&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=KaueASB&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=calm) -->
 
