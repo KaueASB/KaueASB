@@ -1,0 +1,32 @@
+name: Test GitHub Stats
+
+on:
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=KaueASB&show_icons=true&include_all_commits=true&show=prs_authored,prs_merged&theme=calm
+          path: test-stats.svg
+          token: ${{ secrets.github-stats-vercel }}
+          fail_on_error: true
+
+      - name: Commit test card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add test-stats.svg
+          git commit -m "test: github stats action" || exit 0
+          git push
