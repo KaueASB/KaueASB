@@ -19,14 +19,22 @@ jobs:
 
       - name: Verify GitHub authentication
         env:
-          GH_TOKEN: ${{ secrets.github-stats-vercel }}
+          GH_TOKEN: ${{ secrets['github-stats-vercel'] }}
         run: |
           echo "Authenticated as:"
           gh api user --jq '.login'
 
+      - name: Check private repository access
+        env:
+          GH_TOKEN: ${{ secrets['github-stats-vercel'] }}
+        run: |
+          echo "Checking private repository access:"
+          gh repo view genoaseguros/ZecaBackEndV2 \
+            --json nameWithOwner,isPrivate
+
       - name: Generate stats
         env:
-          GH_TOKEN: ${{ secrets.github-stats-vercel }}
+          GH_TOKEN: ${{ secrets['github-stats-vercel'] }}
           GITHUB_USERNAME: KaueASB
           YEAR: 2026
         run: |
