@@ -1,0 +1,53 @@
+name: Update GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 02:00 no horário de São Paulo (05:00 UTC)
+    - cron: "0 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Verify GitHub authentication
+        env:
+          GH_TOKEN: ${{ secrets.github-stats-vercel }}
+        run: |
+          echo "Authenticated as:"
+          gh api user --jq '.login'
+
+      - name: Generate stats
+        env:
+          GH_TOKEN: ${{ secrets.github-stats-vercel }}
+          GITHUB_USERNAME: KaueASB
+          YEAR: 2026
+        run: |
+          python3 github-stats.py
+
+      - name: Show generated numbers
+        run: |
+          echo "Generated stats:"
+          cat stats.json
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add stats.svg stats.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub stats"
+          git push
