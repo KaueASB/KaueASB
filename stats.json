@@ -2,32 +2,32 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 1668,
+    "total": 1707,
     "restricted": 0,
-    "commits_from_github": 1484,
-    "pull_requests_from_github": 180,
+    "commits_from_github": 1519,
+    "pull_requests_from_github": 184,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 8
   },
   "commits": {
-    "all_time": 3989,
-    "year": 1484
+    "all_time": 4024,
+    "year": 1519
   },
   "pull_requests": {
-    "authored": 180,
-    "merged": 180,
-    "open": 0,
+    "authored": 184,
+    "merged": 183,
+    "open": 1,
     "closed_unmerged": 0
   },
   "repositories": [
     {
       "repository": "genoaseguros/ZecaBackEndV2",
-      "prs_authored": 103
+      "prs_authored": 105
     },
     {
       "repository": "genoaseguros/Zecav2",
-      "prs_authored": 43
+      "prs_authored": 45
     },
     {
       "repository": "genoaseguros/coinsure-rh-backend",
