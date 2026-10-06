@@ -2,21 +2,21 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 1715,
+    "total": 1756,
     "restricted": 0,
-    "commits_from_github": 1525,
-    "pull_requests_from_github": 185,
+    "commits_from_github": 1554,
+    "pull_requests_from_github": 197,
     "reviews_from_github": 1,
     "issues_from_github": 0,
-    "repositories_with_commits": 8
+    "repositories_with_commits": 9
   },
   "commits": {
-    "all_time": 4030,
-    "year": 1525
+    "all_time": 4061,
+    "year": 1556
   },
   "pull_requests": {
-    "authored": 185,
-    "merged": 185,
+    "authored": 197,
+    "merged": 197,
     "open": 0,
     "closed_unmerged": 0
   },
@@ -32,6 +32,10 @@
     {
       "repository": "genoaseguros/coinsure-rh-backend",
       "prs_authored": 20
+    },
+    {
+      "repository": "genoaseguros/Plataforma-Cross-Sell",
+      "prs_authored": 12
     },
     {
       "repository": "genoaseguros/coinsure-rh-frontend",
