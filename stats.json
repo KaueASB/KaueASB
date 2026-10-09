@@ -2,32 +2,32 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 1866,
+    "total": 1918,
     "restricted": 0,
-    "commits_from_github": 1652,
-    "pull_requests_from_github": 208,
+    "commits_from_github": 1699,
+    "pull_requests_from_github": 213,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 9
   },
   "commits": {
-    "all_time": 4163,
-    "year": 1658
+    "all_time": 4210,
+    "year": 1705
   },
   "pull_requests": {
-    "authored": 208,
-    "merged": 207,
-    "open": 1,
+    "authored": 213,
+    "merged": 213,
+    "open": 0,
     "closed_unmerged": 0
   },
   "repositories": [
     {
       "repository": "genoaseguros/ZecaBackEndV2",
-      "prs_authored": 106
+      "prs_authored": 108
     },
     {
       "repository": "genoa-seguros/Zecav2",
-      "prs_authored": 46
+      "prs_authored": 49
     },
     {
       "repository": "genoa-seguros/Plataforma-Cross-Sell",
