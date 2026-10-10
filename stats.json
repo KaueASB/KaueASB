@@ -2,22 +2,22 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 1918,
+    "total": 2035,
     "restricted": 0,
-    "commits_from_github": 1699,
-    "pull_requests_from_github": 213,
+    "commits_from_github": 1799,
+    "pull_requests_from_github": 230,
     "reviews_from_github": 1,
     "issues_from_github": 0,
-    "repositories_with_commits": 9
+    "repositories_with_commits": 10
   },
   "commits": {
-    "all_time": 4210,
-    "year": 1705
+    "all_time": 4310,
+    "year": 1805
   },
   "pull_requests": {
-    "authored": 213,
-    "merged": 213,
-    "open": 0,
+    "authored": 230,
+    "merged": 228,
+    "open": 2,
     "closed_unmerged": 0
   },
   "repositories": [
@@ -27,7 +27,7 @@
     },
     {
       "repository": "genoa-seguros/Zecav2",
-      "prs_authored": 49
+      "prs_authored": 50
     },
     {
       "repository": "genoa-seguros/Plataforma-Cross-Sell",
@@ -36,6 +36,10 @@
     {
       "repository": "genoa-seguros/coinsure-rh-backend",
       "prs_authored": 20
+    },
+    {
+      "repository": "kjr-desenvolvimento/voltlab",
+      "prs_authored": 16
     },
     {
       "repository": "genoa-seguros/coinsure-rh-frontend",
