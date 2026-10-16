@@ -2,32 +2,32 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 2204,
+    "total": 2265,
     "restricted": 0,
-    "commits_from_github": 1938,
-    "pull_requests_from_github": 260,
+    "commits_from_github": 1996,
+    "pull_requests_from_github": 263,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 13
   },
   "commits": {
-    "all_time": 4449,
-    "year": 1944
+    "all_time": 4507,
+    "year": 2002
   },
   "pull_requests": {
-    "authored": 260,
-    "merged": 258,
+    "authored": 263,
+    "merged": 261,
     "open": 0,
     "closed_unmerged": 2
   },
   "repositories": [
     {
       "repository": "genoaseguros/ZecaBackEndV2",
-      "prs_authored": 108
+      "prs_authored": 109
     },
     {
       "repository": "genoa-seguros/Zecav2",
-      "prs_authored": 50
+      "prs_authored": 52
     },
     {
       "repository": "kjr-desenvolvimento/voltlab",
