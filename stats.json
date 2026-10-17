@@ -2,36 +2,36 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 2265,
+    "total": 2373,
     "restricted": 0,
-    "commits_from_github": 1996,
-    "pull_requests_from_github": 263,
+    "commits_from_github": 2097,
+    "pull_requests_from_github": 269,
     "reviews_from_github": 1,
     "issues_from_github": 0,
-    "repositories_with_commits": 13
+    "repositories_with_commits": 14
   },
   "commits": {
-    "all_time": 4507,
-    "year": 2002
+    "all_time": 4608,
+    "year": 2103
   },
   "pull_requests": {
-    "authored": 263,
-    "merged": 261,
+    "authored": 269,
+    "merged": 267,
     "open": 0,
     "closed_unmerged": 2
   },
   "repositories": [
     {
       "repository": "genoaseguros/ZecaBackEndV2",
-      "prs_authored": 109
+      "prs_authored": 111
     },
     {
       "repository": "genoa-seguros/Zecav2",
-      "prs_authored": 52
+      "prs_authored": 54
     },
     {
       "repository": "kjr-desenvolvimento/voltlab",
-      "prs_authored": 35
+      "prs_authored": 36
     },
     {
       "repository": "genoa-seguros/Plataforma-Cross-Sell",
@@ -60,6 +60,10 @@
     {
       "repository": "KaueASB/portfolio",
       "prs_authored": 2
+    },
+    {
+      "repository": "KaueASB/meucarhunter",
+      "prs_authored": 1
     }
   ]
 }
