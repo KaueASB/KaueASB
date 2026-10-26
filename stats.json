@@ -2,22 +2,22 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 2635,
+    "total": 2862,
     "restricted": 0,
-    "commits_from_github": 2347,
-    "pull_requests_from_github": 281,
+    "commits_from_github": 2534,
+    "pull_requests_from_github": 321,
     "reviews_from_github": 1,
     "issues_from_github": 0,
-    "repositories_with_commits": 14
+    "repositories_with_commits": 15
   },
   "commits": {
-    "all_time": 4858,
-    "year": 2353
+    "all_time": 5048,
+    "year": 2543
   },
   "pull_requests": {
-    "authored": 281,
-    "merged": 277,
-    "open": 2,
+    "authored": 321,
+    "merged": 319,
+    "open": 0,
     "closed_unmerged": 2
   },
   "repositories": [
@@ -38,6 +38,14 @@
       "prs_authored": 22
     },
     {
+      "repository": "kjr-desenvolvimento/conserte-car-api",
+      "prs_authored": 21
+    },
+    {
+      "repository": "kjr-desenvolvimento/oficina-web",
+      "prs_authored": 20
+    },
+    {
       "repository": "genoa-seguros/coinsure-rh-backend",
       "prs_authored": 20
     },
@@ -46,24 +54,20 @@
       "prs_authored": 10
     },
     {
-      "repository": "kjr-desenvolvimento/conserte-car-api",
+      "repository": "kjr-desenvolvimento/conserte-car-lp",
       "prs_authored": 6
+    },
+    {
+      "repository": "KaueASB/portfolio",
+      "prs_authored": 5
     },
     {
       "repository": "KaueASB/web-yt-download",
       "prs_authored": 5
     },
     {
-      "repository": "kjr-desenvolvimento/oficina-web",
-      "prs_authored": 4
-    },
-    {
       "repository": "KaueASB/api-yt-download",
       "prs_authored": 4
-    },
-    {
-      "repository": "KaueASB/portfolio",
-      "prs_authored": 2
     },
     {
       "repository": "KaueASB/meucarhunter",
