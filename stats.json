@@ -2,10 +2,10 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 2899,
+    "total": 2909,
     "restricted": 0,
     "commits_from_github": 2561,
-    "pull_requests_from_github": 331,
+    "pull_requests_from_github": 341,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 15
@@ -15,31 +15,31 @@
     "year": 2570
   },
   "pull_requests": {
-    "authored": 331,
+    "authored": 341,
     "merged": 328,
-    "open": 1,
+    "open": 11,
     "closed_unmerged": 2
   },
   "repositories": [
     {
       "repository": "genoaseguros/ZecaBackEndV2",
-      "prs_authored": 117
+      "prs_authored": 120
     },
     {
       "repository": "genoa-seguros/Zecav2",
-      "prs_authored": 56
+      "prs_authored": 58
     },
     {
       "repository": "kjr-desenvolvimento/voltlab",
       "prs_authored": 43
     },
     {
-      "repository": "genoa-seguros/Plataforma-Cross-Sell",
-      "prs_authored": 22
+      "repository": "genoa-seguros/coinsure-rh-backend",
+      "prs_authored": 24
     },
     {
-      "repository": "genoa-seguros/coinsure-rh-backend",
-      "prs_authored": 21
+      "repository": "genoa-seguros/Plataforma-Cross-Sell",
+      "prs_authored": 22
     },
     {
       "repository": "kjr-desenvolvimento/conserte-car-api",
@@ -51,7 +51,7 @@
     },
     {
       "repository": "genoa-seguros/coinsure-rh-frontend",
-      "prs_authored": 10
+      "prs_authored": 12
     },
     {
       "repository": "kjr-desenvolvimento/conserte-car-lp",
