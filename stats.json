@@ -2,21 +2,21 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 2940,
+    "total": 2948,
     "restricted": 0,
-    "commits_from_github": 2570,
-    "pull_requests_from_github": 361,
+    "commits_from_github": 2574,
+    "pull_requests_from_github": 365,
     "reviews_from_github": 1,
     "issues_from_github": 0,
-    "repositories_with_commits": 17
+    "repositories_with_commits": 18
   },
   "commits": {
-    "all_time": 5084,
-    "year": 2579
+    "all_time": 5088,
+    "year": 2583
   },
   "pull_requests": {
-    "authored": 361,
-    "merged": 328,
+    "authored": 365,
+    "merged": 332,
     "open": 31,
     "closed_unmerged": 2
   },
@@ -39,7 +39,7 @@
     },
     {
       "repository": "genoa-seguros/Plataforma-Cross-Sell",
-      "prs_authored": 22
+      "prs_authored": 25
     },
     {
       "repository": "kjr-desenvolvimento/conserte-car-api",
@@ -68,6 +68,10 @@
     {
       "repository": "KaueASB/api-yt-download",
       "prs_authored": 4
+    },
+    {
+      "repository": "genoa-seguros/innoa-ai",
+      "prs_authored": 1
     },
     {
       "repository": "KaueASB/meucarhunter",
