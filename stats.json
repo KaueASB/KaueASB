@@ -2,10 +2,10 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 2948,
+    "total": 2957,
     "restricted": 0,
     "commits_from_github": 2574,
-    "pull_requests_from_github": 365,
+    "pull_requests_from_github": 374,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 18
@@ -15,19 +15,19 @@
     "year": 2583
   },
   "pull_requests": {
-    "authored": 365,
-    "merged": 332,
-    "open": 31,
+    "authored": 374,
+    "merged": 370,
+    "open": 2,
     "closed_unmerged": 2
   },
   "repositories": [
     {
       "repository": "genoaseguros/ZecaBackEndV2",
-      "prs_authored": 128
+      "prs_authored": 132
     },
     {
       "repository": "genoa-seguros/Zecav2",
-      "prs_authored": 58
+      "prs_authored": 59
     },
     {
       "repository": "kjr-desenvolvimento/voltlab",
@@ -35,7 +35,7 @@
     },
     {
       "repository": "genoa-seguros/coinsure-rh-backend",
-      "prs_authored": 31
+      "prs_authored": 33
     },
     {
       "repository": "genoa-seguros/Plataforma-Cross-Sell",
@@ -51,7 +51,7 @@
     },
     {
       "repository": "genoa-seguros/coinsure-rh-frontend",
-      "prs_authored": 17
+      "prs_authored": 19
     },
     {
       "repository": "kjr-desenvolvimento/conserte-car-lp",
