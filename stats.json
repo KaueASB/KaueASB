@@ -2,28 +2,28 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 3277,
+    "total": 3295,
     "restricted": 0,
-    "commits_from_github": 2874,
-    "pull_requests_from_github": 394,
+    "commits_from_github": 2888,
+    "pull_requests_from_github": 398,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 18
   },
   "commits": {
-    "all_time": 5388,
-    "year": 2883
+    "all_time": 5402,
+    "year": 2897
   },
   "pull_requests": {
-    "authored": 394,
-    "merged": 388,
-    "open": 3,
+    "authored": 398,
+    "merged": 393,
+    "open": 2,
     "closed_unmerged": 3
   },
   "repositories": [
     {
       "repository": "genoa-seguros/ZecaBackEndV2",
-      "prs_authored": 144
+      "prs_authored": 148
     },
     {
       "repository": "genoa-seguros/Zecav2",
