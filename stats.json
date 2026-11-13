@@ -2,22 +2,22 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 3335,
+    "total": 3343,
     "restricted": 0,
-    "commits_from_github": 2916,
-    "pull_requests_from_github": 410,
+    "commits_from_github": 2923,
+    "pull_requests_from_github": 411,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 18
   },
   "commits": {
-    "all_time": 5432,
-    "year": 2927
+    "all_time": 5439,
+    "year": 2934
   },
   "pull_requests": {
-    "authored": 410,
-    "merged": 403,
-    "open": 4,
+    "authored": 411,
+    "merged": 406,
+    "open": 2,
     "closed_unmerged": 3
   },
   "repositories": [
@@ -43,7 +43,7 @@
     },
     {
       "repository": "genoa-seguros/coinsure-rh-frontend",
-      "prs_authored": 22
+      "prs_authored": 23
     },
     {
       "repository": "kjr-desenvolvimento/conserte-car-api",
