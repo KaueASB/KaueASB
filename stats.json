@@ -2,17 +2,17 @@
   "username": "KaueASB",
   "year": 2026,
   "contributions": {
-    "total": 3591,
+    "total": 3858,
     "restricted": 0,
-    "commits_from_github": 3160,
+    "commits_from_github": 3427,
     "pull_requests_from_github": 420,
     "reviews_from_github": 1,
     "issues_from_github": 0,
     "repositories_with_commits": 20
   },
   "commits": {
-    "all_time": 5685,
-    "year": 3180
+    "all_time": 5953,
+    "year": 3448
   },
   "pull_requests": {
     "authored": 420,
